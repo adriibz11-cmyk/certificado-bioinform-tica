@@ -1,0 +1,431 @@
+    1  net
+    2  cd..
+    3  cd
+    4  cd..
+    5  pwp
+    6  pwd
+    7  cd..
+    8  wholai
+    9  wmic
+   10  cmd
+   11  cmd..
+   12  cmd
+   13  mostrar similares
+   14  show
+   15  nmh
+   16  nm
+   17  ls
+   18  dsktp
+   19  desktop
+   20  rdesktop
+   21  mkadir
+   22  less data.txt
+   23  cal
+   24  1982
+   25  cal 1987
+   26  cal 2008
+   27  cal 1853
+   28  man
+   29  2
+   30  man
+   31  4
+   32  clear
+   33  man
+   34  first
+   35  clear
+   36  man
+   37  mldir
+   38  man
+   39  mkdir
+   40  mkdir --help
+   41  clear
+   42  mkdir
+   43  mkdir "Mi nueva carpeta"
+   44  q
+   45  quit
+   46  clear
+   47  cd..
+   48  clear
+   49  cd /
+   50  -
+   51  ./dve/
+   52  dev/
+   53  cd..
+   54  cd/
+   55  clear
+   56  history-1000
+   57  history
+   58  clear
+   59  man (ouput terminal)
+   60  clear
+   61  pwd
+   62  clear
+   63  pwd
+   64  whoami
+   65  cd
+   66  cd..
+   67  cd
+   68  cd../
+   69  cd/..
+   70  ls
+   71  cd
+   72  pwd
+   73  clearcel
+   74  clear
+   75  /..
+   76  /
+   77  ls
+   78  cd..
+   79  cd
+   80  ls
+   81  cat
+   82  clear
+   83  /
+   84  s
+   85  ls
+   86  cd fcb_material_practical
+   87  clear
+   88  cd
+   89  cd fcb_material_practical
+   90  cd fcb_material_practica1
+   91  ls
+   92  cd fcb_material_practica1
+   93  clear
+   94  ls
+   95  ls -a
+   96  ls -lh
+   97  -lhs
+   98  ls
+   99  ls analisis_previos
+  100  lhs
+  101  clear
+  102  ls
+  103  ls analisis previos
+  104  clear
+  105  ls
+  106  ls analisis_previos
+  107  notas_control_calidad.txt  resumen_2024.txt
+  108  clearotas_control_calidad.txt  resumen_2024.t
+  109  claer
+  110  clear
+  111  notas_control_calidad.txt  resumen_2024.txtclear
+  112  clear
+  113  lhs
+  114  -lhs
+  115  ls
+  116  ls analisis_previos
+  117  ls fcb_material_practica1
+  118  nano
+  119  lsls
+  120  ls
+  121  clear
+  122  nano
+  123  ls
+  124  nano sec_DNA.fasta 
+  125  less sec_DNA.fasta 
+  126  cat sec_DNA.fasta 
+  127  cat
+  128  cat sec_DNA_cat.fasta2
+  129  cat
+  130  cat sec_DNA_fasta3 
+  131  muestra1
+  132  ATCGATGCCCGG
+  133  muestra2
+  134  TTTAATGCAAGGG
+  135  muestra3
+  136  GGCCGGCCAT
+  137  muestra5
+  138  CATTTATTTAATC
+  139  clear
+  140  cat sec_DN_.fasta2 
+  141  clear
+  142  cat>sec_DNA_fasta1
+  143  wc -es sec_DNA
+  144  wc --help
+  145  file sec_DNA
+  146  clear
+  147  diff sec_DNA.fasta 
+  148  diff sec_DNA.fasta sec_DNA
+  149  clear
+  150  ls -l
+  151  clear
+  152  ls -l
+  153  clear
+  154  ls
+  155  ls tema2/
+  156  ls pacifi2013_data.csv
+  157  ls pacifici2013_data.csv
+  158  ls Pacifici2013_data.csv
+  159  ls-l
+  160  ls tema2
+  161  cat Pacifici2013_data.csv
+  162  cat
+  163  ls
+  164  ls tema2
+  165  clear
+  166  ls
+  167  ls tema2
+  168  cut -d ";"
+  169  head Pacifici2013_data.csv
+  170  cut -d ";" -f 1-2
+  171  clear
+  172  ls
+  173  ls tema2
+  174  head -n1 Pacifici2013_data.csv | cut -d ";" -f 1
+  175  head -n 1 Pacifici2013_data.csv | cut -d ";" -f 1
+  176  clear
+  177  ls
+  178  ls tema2
+  179  cd tema2/
+  180  head -n 1 Pacifici2013_data.csv | cut -d ";" -f 1
+  181  cut -d ";" -f 2 Pacifici2013_data.csv | head -n 5
+  182  cut -d ";" -f 2 Pacifici2013_data.csv | head -n25,6
+  183  cut -d ";" -f 2,8 Pacifici2013_data.csv | head -n 2
+  184  cut -d ";" -f 2,8 head Pacifici2013_data.csv  | head -n 3
+  185  cut -d ";" -f 2 Pacifici2013_data.csv | sort
+  186  cut -d ";" -f 2 Pacifici2013_data.csv | sort | uniq
+  187  zp Pacifici2013_data.csv Pacifici2013_data.csvPRUEBA
+  188  cp Pacifici2013_data.csv Pacifici2013_data.csvSADIQ
+  189  ls
+  190  cat Pacifici2013_data.csv
+  191  clear
+  192  ls
+  193  cut -d ";" -f 2,8 Pacifici2013_data.csvSADIQ | head -n 2-6
+  194  cut -d ";" -f 2,8 Pacifici2013_data.csvSADIQ | head -n 2,6
+  195  clear
+  196  ls
+  197  cut Pacifici2013_data.csvSADIQ
+  198  cut --help
+  199  clear
+  200  cut -d ";" -f 2-6 Pacifici2013_data.csvSADIQ | tr ";" " " | sort -k 6 -n
+  201  cut -d ";" -f 2-6 Pacifici2013_data.csvSADIQ | tr ";" " " | sort -k 6 -n > BodyMass_file.csv
+  202  cut -d ";" -f 2,8 Pacifici2013_data.csvSADIQ | head -n 2,6
+  203  cut -d ";" -f 2 Pacifici2013_data.csvSADIQ 
+  204  ls
+  205  ls tema2/
+  206  cd Tema2
+  207  cd Pacifici2013_data.csv
+  208  ls
+  209  cd tema2
+  210  cd Pacifici2013_data.csvSADIQ
+  211  wc -l Pacifici2013_data.csvSADIQ 
+  212  grep Gorilas Pacifici2013_data.csvSADIQ
+  213  grep Vombatidae Pacifici2013_data.csv
+  214  grep Vombatidae Pacifici2013_data.csvSADIQ
+  215  clear
+  216  grep Vombatidae Pacifici2013_data.csvSADIQ
+  217  ls
+  218  grep -c Vombatidae BodyMass_file.csv 
+  219  grep Bos BodyMass_file.csv 
+  220  grep -w Bos BodyMass_file.csv 
+  221  gep -w -c Bos BodyMass_file.csv 
+  222  grep -w -c Bos BodyMass_file.csv 
+  223  grep -i Bos BodyMass_file.csv 
+  224  grep -B 2 -A 2 "Gorilla gorilla" BodyMass_file.csv 
+  225  grep -w "Gorilla\|Pan" BodyMass_file.csv 
+  226  touch PRUEBA
+  227  ls PRUEBA
+  228  ls -l Prueba
+  229  ls -l PRUEBA
+  230  chmod g-x,o+x PRUEBA
+  231  touch permisos.txt
+  232  clear
+  233  nano ExtractBodyM.sh
+  234  ls -l
+  235  ls ExtractBodyM.sh 
+  236  ls -l ExtractBodyM.sh 
+  237  bash ExtractBodyM.sh 
+  238  ls-l
+  239  ls -l
+  240  nano ExtractBodyM.sh 
+  241  bash ExtractBodyM.sh Pacifici2013_data.csv BodyMass_file
+  242  nano ExtractBodyM.sh 
+  243  bash ExtractBodyM.sh Pacifici2013_data.csv BodyMass_file
+  244  ls -l
+  245  history
+  246  ls
+  247  ls tema2/
+  248  cd tema2
+  249  nano ExtractBodyM.sh 
+  250  cat fcb_material_practica1/README.txt 
+  251  fcb_alumno14@UCVVBox:~$ cat fcb_material_practica1/README.txt
+  252  Material de apoyo - Practica Evaluable 1
+  253  Fundamentos de Computacion en Biociencias (Tema 1)
+  254  Esta carpeta contiene archivos de ejemplo para que trabajar con  los comandos
+  255  de exploracion de contenido vistos en clase: cat, less, head, tail, wc,
+  256  grep, find...
+  257  Contenido:
+  258  No modifiques estos archivos directamente: copia lo que necesites dentro
+  259  de tu propio proyecto de trabajo antes de manipularlo.
+  260  fcb_alumno14@UCVVBox:~$ cat fcb_material_practica1/README.txt
+  261  Material de apoyo - Practica Evaluable 1
+  262  Fundamentos de Computacion en Biociencias (Tema 1)
+  263  Esta carpeta contiene archivos de ejemplo para que trabajar con  los comandos
+  264  de exploracion de contenido vistos en clase: cat, less, head, tail, wc,
+  265  grep, find...
+  266  Contenido:
+  267  No modifiques estos archivos directamente: copia lo que necesites dentro
+  268  de tu propio proyecto de trabajo antes de manipularlo.
+  269  clear
+  270  find ~/fcb_material_practica1 -type f -exec du -h {} + | sort -hr
+  271  fcb_alumno14@UCVVBox:~$ find ~/fcb_material_practica1 -type f -exec du -h {} + | sort -hr
+  272  4,0K    /home/fcb_alumno14/fcb_material_practica1/secuencias_DNA.fasta
+  273  4,0K    /home/fcb_alumno14/fcb_material_practica1/README.txt
+  274  4,0K    /home/fcb_alumno14/fcb_material_practica1/datos_muestras.txt
+  275  4,0K    /home/fcb_alumno14/fcb_material_practica1/analisis_previos/resumen_2024.txt
+  276  4,0K    /home/fcb_alumno14/fcb_material_practica1/analisis_previos/notas_control_calidad.txt
+  277  find ~/fcb_material_practica1 -type f -exec du -h {} + | sort -hrclear
+  278  clear
+  279  find ~/fcb_material_practica1/analisis_previos/ -type f -exec du -h {} + | sort -hr
+  280  4,0K    /home/fcb_alumno14/fcb_material_practica1/analisis_previos/resumen_2024.txt
+  281  4,0K    /home/fcb_alumno14/fcb_material_practica1/analisis_previos/notas_control_calidad.txt
+  282  ~$
+  283  find ~/fcb_material_practica1 -type f -exec du -h {} + | sort -hr
+  284  cat fcb_material_practica1/README.txt 
+  285  fcb_alumno14@UCVVBox:~$ cat fcb_material_practica1/README.txt
+  286  Material de apoyo - Practica Evaluable 1
+  287  Fundamentos de Computacion en Biociencias (Tema 1)
+  288  Esta carpeta contiene archivos de ejemplo para que trabajar con  los comandos
+  289  de exploracion de contenido vistos en clase: cat, less, head, tail, wc,
+  290  grep, find...
+  291  Contenido:
+  292  man ls
+  293  history
+  294  history 
+  295  clear
+  296  history > historial_comandos_A.txt
+  297  history > historial_COMANDOS.txt
+  298  cd
+  299  mkdir proyecto_informatica
+  300  cd proyecto_informatica/
+  301  mkdir -p datos_crudos datos_procesados scripts resultados documentacion
+  302  cd
+  303  home
+  304  whoami
+  305  ls -l 
+  306  cd proyecto_informatica/
+  307  ls -l
+  308  cd resultados/
+  309  touch mis_resultados_finales.txt
+  310  ls -l
+  311  rm mis\resultados\finales.txt
+  312  rm mis\ resultados\ finales.txt
+  313  touch mis\ resultados\ finales.txt
+  314  rm mis\ resultados\ finales.txt
+  315  cd..
+  316  touch datos_crudos/datos_originales.txt
+  317  cd ..
+  318  datos_crudos/
+  319  touch datos_crudos/datos_originales.txt
+  320  touch datos_procesados/datos.txt
+  321  touch scripts/procesos_biologicos.sh
+  322  touch documentacion/anotaciones.txt
+  323  ls -l
+  324  ls-l datos_crudos/
+  325  cd datos_crudos
+  326  ls -l datos_originales.txt 
+  327  cd ..
+  328  cat > ~/proyecto_biotec/documentacion/conceptos_tema1.txt << 'EOF'
+  329  El kernel es el núcleo del sistema operativo. Se encarga de gestionar los recursos del ordenador, como la memoria, el procesador y los dispositivos, y permite la comunicación entre el hardware y los programas.
+  330  La shell es un intérprete de comandos que permite al usuario comunicarse con el sistema operativo mediante instrucciones. La terminal es la aplicación o interfaz desde la que podemos utilizar esa shell para introducir y ejecutar comandos.
+  331  Unix/Linux es especialmente relevante en bioinformática y computación científica porque permite trabajar eficientemente con grandes cantidades de datos, automatizar tareas mediante scripts y utilizar numerosas herramientas científicas y bioinformáticas.
+  332  EOF
+  333  clear
+  334  cd documentacion/
+  335  cat conceptos_tema1.txt
+  336  ls
+  337  cd anotaciones.txt
+  338  cat anotaciones.txt 
+  339  cat > ~/proyecto_biotec/documentacion/conceptos_tema1.txt << 'EOF'
+  340  El kernel es el núcleo del sistema operativo. Se encarga de gestionar los recursos del ordenador, como la memoria, el procesador y los dispositivos, y permite la comunicación entre el hardware y los programas.
+  341  La shell es un intérprete de comandos que permite al usuario comunicarse con el sistema operativo mediante instrucciones. La terminal es la aplicación o interfaz desde la que podemos utilizar esa shell para introducir y ejecutar comandos.
+  342  Unix/Linux es especialmente relevante en bioinformática y computación científica porque permite trabajar eficientemente con grandes cantidades de datos, automatizar tareas mediante scripts y utilizar numerosas herramientas científicas y bioinformáticas.
+  343  clear
+  344  cd proyecto_informatica/
+  345  cd documentacion/
+  346  cat anotaciones.txt 
+  347  El kernel es el núcleo del sistema operativo. Se encarga de gestionar los recursos del ordenador, como la memoria, el procesador y los dispositivos, y permite la comunicación entre el hardware y los programas.
+  348  La shell es un intérprete de comandos que permite al usuario comunicarse con el sistema operativo mediante instrucciones. La terminal es la aplicación o interfaz desde la que podemos utilizar esa shell para introducir y ejecutar comandos.
+  349  Unix/Linux es especialmente relevante en bioinformática y computación científica porque permite trabajar eficientemente con grandes cantidades de datos, automatizar tareas mediante scripts y utilizar numerosas herramientas científicas y bioinformáticas.
+  350  EOF
+  351  << 'EOF'
+El kernel es el núcleo del sistema operativo. Se encarga de gestionar los recursos del ordenador, como la memoria, el procesador y los dispositivos, y permite la comunicación entre el hardware y los programas.
+
+La shell es un intérprete de comandos que permite al usuario comunicarse con el sistema operativo mediante instrucciones. La terminal es la aplicación o interfaz desde la que podemos utilizar esa shell para introducir y ejecutar comandos.
+
+Unix/Linux es especialmente relevante en bioinformática y computación científica porque permite trabajar eficientemente con grandes cantidades de datos, automatizar tareas mediante scripts y utilizar numerosas herramientas científicas y bioinformáticas.
+EOF
+
+  352  cd ..
+  353  cd scripts/
+  354  history comandos_B.txt
+  355  cd ..
+  356  history > ~/proyecto_biotec/scripts/historial_comandos_B.txt
+  357  cd proyecto_informatica/
+  358  cd scripts/
+  359  ls
+  360  history procesos_biologicos.sh 
+  361  history historial_comandos_B.txt
+  362  history > historial_comandos_B.txt
+  363  cd ..
+  364  cd fcb
+  365  cd fcb_material_practica1/
+  366  cd proyecto_informatica
+  367  cd ..
+  368  cd proyecto_informatica/
+  369  cd datos_crudos/
+  370  cp -r fcb_material_practica1
+  371  ls
+  372  cp -r ~/fcb_material_practica1 ~/proyecto_informatica/datos_crudos/
+  373  ls 
+  374  cd ~/proyecto_biotec/datos_crudos/fcb_material_practica1
+  375  cd ..
+  376  ls
+  377  cat datos_procesados/
+  378  ls -r
+  379  ls scripts
+  380  ls -l
+  381  ls datos_procesados
+  382  cat datos_procesados/
+  383  cd ..
+  384  cat datos_muestras.txt
+  385  cd proyecto_informatica/
+  386  cd datos_procesados/
+  387  cat datos.txt
+  388  head -n 5 datos.txt 
+  389  cat datos.txt 
+  390  cd ..
+  391  cd resultados/
+  392  cd ..
+  393  ls resultados/
+  394  ls -l proyecto_informatica
+  395  ls proyecto_informatica
+  396  cat datos_muestras.txt
+  397  cat datos.txt
+  398  cat datos_muestras.txt
+  399  cd ..
+  400  cd fcb_material_practica1/
+  401  cat datos_muestras.txt
+  402  head -n 5 datos_muestras.txt 
+  403  tail -n 5 datos_muestras.txt 
+  404  wc -l datos_muestras.txt 
+  405  grep -c control datos_muestras.txt 
+  406  grep Escherichia_coil datos_muestras.txt 
+  407  grep Escherichia_coli datos_muestras.txt
+  408  grep -c Escherichia_coli datos_muestras.txt
+  409  grep -c '^>' secuencias_DNA.fasta
+  410  grep -c Bacillus_subtilis datos_muestras.txt
+  411  cd ..
+  412  cd proyecto_informatica/
+  413  mkdir borrador
+  414  cd borrador/
+  415  touch prueba.txt
+  416  rmdir
+  417  rmdir borrador
+  418  cd ..
+  419  rmdir borrador/
+  420  rm -r
+  421  rm -r borrador/
+  422  history > ~/proyecto_biotec/scripts/historial_comandos_C.txt
+  423  cd scripts/
+  424  history > historial_comandos_C.txt
